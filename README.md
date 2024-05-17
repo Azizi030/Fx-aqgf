@@ -26,7 +26,11 @@ v1.0
 
 ### 第一步：下载本项目选最新版压缩包
 
-下载链接：https://github.com/Azizi030/Fx-aqgf/releases
+下载链接：
+
+Github(国内可能无法访问)：https://github.com/Azizi030/Fx-aqgf/releases
+
+Gitee(国内镜像)：https://gitee.com/zaizaiu/Fx-aqgf/releases
 
 ### 第二步：对下载的压缩包解压缩
 
