@@ -2,6 +2,12 @@
 
 福建信息职业技术学院安全攻防利用web漏洞一件获取Key并自动提交
 
+## 验证码获取
+
+获取链接：https://afdian.net/item/b797bf2013fe11ef915f52540025c377
+
+查询链接：https://py.alini.cn/cx.php
+
 ## 当前版本 V1.2.1
 
 v1.2.1
