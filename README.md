@@ -4,9 +4,9 @@
 
 ## 验证码获取
 
-获取链接：https://afdian.net/item/b797bf2013fe11ef915f52540025c377
+[兑换码获取链接](https://afdian.net/item/b797bf2013fe11ef915f52540025c377)
 
-查询链接：https://py.alini.cn/cx.php
+[验证码查询兑换链接](https://py.alini.cn)
 
 ## 当前版本 V1.2.1
 
@@ -34,9 +34,9 @@ v1.0
 
 下载链接：
 
-Github(国内可能无法访问)：https://github.com/Azizi030/Fx-aqgf/releases
+[Github(国内可能无法访问)](https://github.com/Azizi030/Fx-aqgf/releases)
 
-Gitee(国内镜像)：https://gitee.com/zaizaiu/Fx-aqgf/releases
+[Gitee(国内镜像)](https://gitee.com/zaizaiu/Fx-aqgf/releases)
 
 ### 第二步：对下载的压缩包解压缩
 
