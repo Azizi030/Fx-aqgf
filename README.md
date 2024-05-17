@@ -50,6 +50,16 @@ Edge：登录平台->按下F12打开浏览器开发者工具->应用程序->存�
 
 ![images](https://github.com/Azizi030/Fx-aqgf/blob/main/images/PHPSESSID%E8%8E%B7%E5%8F%96%E6%95%99%E7%A8%8B.png?raw=true)
 
+### 自定义模式使用教程
+
+在输入验证码时在任意位置带上"+1"即可开启自定义URL模式
+
+自定义URL格式
+
+例如我需要往http://[ip]:8000/WebShell.php发送数据包
+
+![images](https://github.com/Azizi030/Fx-aqgf/blob/main/images/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%A8%A1%E5%BC%8F%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.png?raw=true)
+
 
 
 
