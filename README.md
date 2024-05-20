@@ -4,9 +4,9 @@
 
 ## 验证码获取
 
-[兑换码获取链接](https://afdian.net/item/b797bf2013fe11ef915f52540025c377)
+### 请关注微信公众号
 
-[验证码查询兑换链接](https://py.alini.cn)
+![image](https://github.com/Azizi030/Fx-aqgf/blob/main/images/wxgzh.jpg?raw=true)
 
 ## 当前版本 V1.2.1
 
